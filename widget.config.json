@@ -1,0 +1,17 @@
+{
+  "packageId": "wpkgjvUzbclQe",
+  "spaceId": "spcLnW7XCpLTc",
+  "entry": "./src/index.tsx",
+  "name": {
+    "zh-CN": "findandreplace",
+    "en-US": "Find And Replace"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "选择一列，对符合查找条件的内容进行批量替换。",
+    "en-US": "Select a column that comply with the content of the lookup condition for bulk replacement."
+  },
+  "globalPackageId": "wpk2jJ7qZS0VG"
+}
