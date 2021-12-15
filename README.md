@@ -22,9 +22,7 @@
 
 我们欢迎开源社区、个人和合作伙伴的各种贡献。我们的成功归功于您的积极参与。
 
-- [贡献指南]()
-
-- [行为准则]()
+- [行为准则](https://github.com/vika-widgets/widget-find-and-replace/blob/master/github/CODE_OF_CONDUCT.md)
 
 ## 免责声明
 
