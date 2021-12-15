@@ -40,7 +40,7 @@
 
 ## 归因
 
-本行为准则改编自[贡献者公约](https://www.contributor-covenant.org/)1.4 版，可从 [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html] 获取(https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
+本行为准则改编自[贡献者公约](https://www.contributor-covenant.org/)1.4 版，可从[https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)获取
 
 有关此行为准则的常见问题的答案，请参阅 https://www.contributor-covenant.org/faq
 
