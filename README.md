@@ -2,8 +2,6 @@
 
 选择一列，对符合查找条件的内容进行批量替换
 
-
-
 ## **🎨 功能介绍**
 
 本小程序可以根据关键字，查找当前视图下所选列中的内容，并替换成想要的文本
@@ -12,35 +10,27 @@
 
 > 注意：本小程序是基于视图的文本查找替换，只会影响当前视图下的记录
 
-
-
 ## **🚀 快速上手（现成模板）**
 
 为了让大家可以快速体验到这款小程序的用途，这里已经提前做好了一个维格表模板，包含两个例子，浏览器打开即可体验
 
-> 体验地址：https://vika.cn/share/shr9mvdoxzSN5um0CGtns
-
-使用方法非常简单，由于本小程序只对当前视图下的记录生效。
+> 体验地址：https://vika.cn/share/shrnBHAd0u84rxLxPGKES
 
 你需要先选择一个视图，筛选出你需要批量查找替换的记录
 
-![img](https://vikadata.feishu.cn/space/api/box/stream/download/asynccode/?code=M2ZlOTk2ZjExNTcyYTZlY2MwZTU4ODU4M2ViN2U3N2RfdXhqTWgzSFlrRmRWaW9sVEdyQjB2cHh4dXVTMjhQSWRfVG9rZW46Ym94Y242VFFMZWFQMWlsdHo1Y1lBdjdCblliXzE2NDMwMTYzMTU6MTY0MzAxOTkxNV9WNA)
+![CleanShot 2022-01-24 at 17.15.54@2x.png](https://s1.vika.cn/space/2022/01/25/97d2707b5d114c4287fcdf680633c6d0)
 
 选择一列，输入要查找的关键字和替换文本
 
-![img](https://vikadata.feishu.cn/space/api/box/stream/download/asynccode/?code=NjBiMzE4ZTJlNzkxZWQyZmQzNTAyZTkzMWQwNjhjYzZfeHFCTU90cTZvRXRCeVFYQ2FiYlh6elREWHVJNTJiZjdfVG9rZW46Ym94Y25uRU0yYWpnc2FSZWZHdHVhVUtsYUhnXzE2NDMwMTYzMTU6MTY0MzAxOTkxNV9WNA)
+![CleanShot 2022-01-24 at 17.18.11@2x.png](https://s1.vika.cn/space/2022/01/25/5cab76804f494fc4b80fb858c8aea225)
 
 点击「预览」可以看到匹配的记录，方便你进行内容替换的确认
 
-![img](https://vikadata.feishu.cn/space/api/box/stream/download/asynccode/?code=NjkzOTkzY2Y4MDRhMmNkZTY1NTZhY2IyMmYxZTE3OGRfeVRHZVRoMm5nbkJqWEhUeE1qMUdlbWNzZnYyek00SWVfVG9rZW46Ym94Y24wSUlWNWRDZ3U1WE11amZBSFlSVXNkXzE2NDMwMTYzMTU6MTY0MzAxOTkxNV9WNA)
-
- 
+![7e9e136b-faad-4cba-9b44-f044bf563394.png](https://s1.vika.cn/space/2022/01/25/ccf67bfe1539428b8b2fa1c6962e2063)
 
 点击「全部替换」将匹配记录更新为替换后的记录
 
-![img](https://vikadata.feishu.cn/space/api/box/stream/download/asynccode/?code=NjI2ZWYxNWM2MjRlODRhNDQzYjg0N2RhZDYxYjhkNzJfWkQ1WWJoTHo4WHNMSVRQZDEwS0FXcUtRQ1M1YVpPeklfVG9rZW46Ym94Y25Zb0VURTVRR040c2tCWlc0N2FuSURoXzE2NDMwMTYzMTU6MTY0MzAxOTkxNV9WNA)
-
-
+![aae290c9-6ea3-424f-b794-fbe9997413b9.png](https://s1.vika.cn/space/2022/01/25/622807b18916482681295b962eb118b1)
 
 
 
@@ -62,8 +52,6 @@
 
 点击表格左上方的撤回按钮，或者使用快捷键<kbd>Ctrl+Z</kbd>（Windows）、<kbd>Command+Z</kbd>（MacOS）均可进行撤回操作
 
-
-
 ## 🌈 动手党的天堂
 
 如果你是一名编程人员或者是对开发维格小程序感兴趣的爱好者，欢迎访问GitHub的项目库，查找替换小程序的代码已经开源了哦~
@@ -76,23 +64,17 @@
 
 PS：如果你也有关于维格表小程序的项目开源，欢迎给我们提交PR，我们会将优秀作品收录到官方宝藏库，独乐乐不如众乐乐😍😍😍
 
-
-
 ## **🤟 建议与反馈**
 
 如果你在使用过程中发现有缺陷，欢迎在下方评论，我们会尽量及时修复。
 
 如果你对这个小程序有新的想法，也欢迎在下方留言，我们一起探讨改进~
 
-
-
 ## 🥂 讨论交流
 
 在日常使用中或者二次开发过程中有疑问或者新想法，欢迎前往官方社区的小程序主页留言评论给我~
 
 👉 [点我跳转「字符串查找替换」的主页](https://bbs.vika.cn/article/)
-
-
 
 ## 🎯 更新日志
 
