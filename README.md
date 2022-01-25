@@ -54,23 +54,7 @@
 
 点击表格左上方的撤回按钮，或者使用快捷键<kbd>Ctrl+Z</kbd>（Windows）、<kbd>Command+Z</kbd>（MacOS）均可进行撤回操作
 
-## 🌈 动手党的天堂
 
-如果你是一名编程人员或者是对开发维格小程序感兴趣的爱好者，欢迎访问GitHub的项目库，查找替换小程序的代码已经开源了哦~
-
-👉 [Github：vikadata-widget-find-and-replace](https://github.com/Niko030303/vikadata-widget-find-and-replace)
-
-如果你在开发小程序的过程中遇到阻碍，希望得到更多的帮助与启发，或者想要学习一下其他开发者的作品，欢迎访问维格官方的项目宝藏库：
-
-👉 [Github：awesome-vikadata](https://github.com/vikadata/awesome-vikadata)
-
-PS：如果你也有关于维格表小程序的项目开源，欢迎给我们提交PR，我们会将优秀作品收录到官方宝藏库，独乐乐不如众乐乐😍😍😍
-
-## **🤟 建议与反馈**
-
-如果你在使用过程中发现有缺陷，欢迎在下方评论，我们会尽量及时修复。
-
-如果你对这个小程序有新的想法，也欢迎在下方留言，我们一起探讨改进~
 
 ## 🥂 讨论交流
 
